@@ -1,3 +1,2 @@
-# memecoins
-
-# this is to record tokenomics of meme coins
+# Meme Coins
+objective = record tokenomics of meme coins
